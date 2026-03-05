@@ -2,11 +2,7 @@
 
 # Jorge Assis
 
-**Full-Stack Developer · Data Engineer · Infrastructure Enthusiast**
-
-[![GitHub followers](https://img.shields.io/github/followers/JorgeMarinsX?style=flat-square&color=orange&labelColor=1a1a1a)](https://github.com/JorgeMarinsX)
-&nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=JorgeMarinsX&style=flat-square&color=orange)](https://github.com/JorgeMarinsX)
+**Web Developer**
 
 </div>
 
@@ -22,51 +18,17 @@ I build production-ready software across the full stack — from data pipelines 
 
 <div align="center">
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frontend**
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & Runtime**
-
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-**Data & Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Infrastructure & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Tools & Practices**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black)
+| Languages | Frontend | Backend & Runtime |
+|:---:|:---:|:---:|
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white) |
+| **Data & Databases** | **Infrastructure** | **Tools & Practices** |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black) |
 
 </div>
 
 ---
 
 ## Featured Projects
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
 
 ### ✂️ [Dapper](https://github.com/JorgeMarinsX/dapper)
 
@@ -80,17 +42,13 @@ A full-featured business platform covering scheduling, client management, servic
 - KPI dashboard with daily revenue & appointment tracking
 - Hot Module Replacement in dev via bind mounts
 
-**Stack:**
-
 ![Nuxt](https://img.shields.io/badge/Nuxt_4-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 
-</td>
-
-<td width="33%" valign="top">
+---
 
 ### 📞 [stCall](https://github.com/JorgeMarinsX/stCall) + [websockets-stcall](https://github.com/JorgeMarinsX/websockets-stcall)
 
@@ -104,17 +62,13 @@ A call center management system built for real-world scale — with real-time We
 - Nuxt middleware and composables architecture
 - Production-ready Docker setup
 
-**Stack:**
-
 ![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 
-</td>
-
-<td width="33%" valign="top">
+---
 
 ### 📡 [dados_anatel](https://github.com/JorgeMarinsX/dados_anatel)
 
@@ -128,16 +82,9 @@ A Python application that collects, processes, and visualizes data from Anatel's
 - User authentication and management
 - Modular architecture (connect, pipeline, query, front)
 
-**Stack:**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=plotly&logoColor=white)
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -155,16 +102,6 @@ A Python application that collects, processes, and visualizes data from Anatel's
 
 ---
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JorgeMarinsX&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&icon_color=FF6B35&title_color=FF6B35)](https://github.com/JorgeMarinsX)
-&nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeMarinsX&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF6B35)](https://github.com/JorgeMarinsX)
-
-</div>
-
----
-
 <br>
 
 ---
@@ -173,7 +110,7 @@ A Python application that collects, processes, and visualizes data from Anatel's
 
 # Jorge Assis
 
-**Desenvolvedor Full-Stack · Engenheiro de Dados · Entusiasta de Infraestrutura**
+**Desenvolvedor Web**
 
 </div>
 
@@ -189,45 +126,17 @@ Construo software pronto para produção em toda a stack — de pipelines de dad
 
 <div align="center">
 
-**Linguagens**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frontend**
-
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & Runtime**
-
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-**Dados & Bancos de Dados**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Infraestrutura & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+| Linguagens | Frontend | Backend & Runtime |
+|:---:|:---:|:---:|
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white) |
+| **Dados & Bancos de Dados** | **Infraestrutura** | **Ferramentas & Práticas** |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black) |
 
 </div>
 
 ---
 
 ## Projetos em Destaque
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
 
 ### ✂️ [Dapper](https://github.com/JorgeMarinsX/dapper)
 
@@ -241,17 +150,13 @@ Plataforma empresarial completa com agendamentos, gestão de clientes, catálogo
 - Dashboard de KPIs com faturamento diário e agendamentos
 - Hot Module Replacement em dev via bind mounts
 
-**Stack:**
-
 ![Nuxt](https://img.shields.io/badge/Nuxt_4-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 
-</td>
-
-<td width="33%" valign="top">
+---
 
 ### 📞 [stCall](https://github.com/JorgeMarinsX/stCall) + [websockets-stcall](https://github.com/JorgeMarinsX/websockets-stcall)
 
@@ -265,17 +170,13 @@ Sistema de gestão de call center construído para o mundo real — com comunica
 - Arquitetura com middleware e composables Nuxt
 - Setup Docker pronto para produção
 
-**Stack:**
-
 ![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 
-</td>
-
-<td width="33%" valign="top">
+---
 
 ### 📡 [dados_anatel](https://github.com/JorgeMarinsX/dados_anatel)
 
@@ -289,16 +190,9 @@ Aplicação Python que coleta, trata e visualiza dados do pool público da Anate
 - Autenticação e gerenciamento de usuários
 - Arquitetura modular (connect, pipeline, query, front)
 
-**Stack:**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=plotly&logoColor=white)
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -313,13 +207,3 @@ Aplicação Python que coleta, trata e visualiza dados do pool público da Anate
 | **Engenharia de dados** | Pipelines ETL, transformação de dados, geração de dashboards, consumo de datasets públicos |
 | **Scripts Python** | Ferramentas de automação, processamento de dados, web scraping e bots utilitários |
 | **Qualidade de UI** | Sistemas com Tailwind CSS, interfaces dark-mode, design de componentes, suporte multilíngue |
-
----
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JorgeMarinsX&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&icon_color=FF6B35&title_color=FF6B35)](https://github.com/JorgeMarinsX)
-&nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeMarinsX&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FF6B35)](https://github.com/JorgeMarinsX)
-
-</div>
