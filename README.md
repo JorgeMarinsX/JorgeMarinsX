@@ -4,13 +4,15 @@
 
 **Web Developer**
 
+[English](#jorge-assis) · [Português Brasileiro](#jorge-assis-1)
+
 </div>
 
 ---
 
 ## About me
 
-I build production-ready software across the full stack — from data pipelines and backend APIs to polished web interfaces. My work spans business management systems, real-time communication platforms, and data engineering tools. I care about clean architecture, containerized deployments, and products that scale.
+I build production-ready software for the real world. From data pipelines and backend APIs to polished web interfaces. My work spans business management systems, real-time communication platforms, and data engineering tools to support data teams. I care about clean architecture, containerized deployments, and products that scale, and most importantly, work stably.
 
 ---
 
@@ -22,7 +24,9 @@ I build production-ready software across the full stack — from data pipelines 
 |:---:|:---:|:---:|
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white) |
 | **Data & Databases** | **Infrastructure** | **Tools & Practices** |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black) |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black) |
+| **AI Integration** | | |
+| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) | | |
 
 </div>
 
@@ -34,13 +38,14 @@ I build production-ready software across the full stack — from data pipelines 
 
 **End-to-end barber shop management system**
 
-A full-featured business platform covering scheduling, client management, service catalog, and real-time barber availability — all in a modern, dark-mode-first interface.
+A full-featured business platform for barber shops covering scheduling, client management, service catalog, and real-time barber availability using a modern interface.
 
 **Highlights:**
 - Multi-stage Docker builds (dev → prod)
 - Prisma ORM with PostgreSQL
 - KPI dashboard with daily revenue & appointment tracking
-- Hot Module Replacement in dev via bind mounts
+- Dynamic shareable pages for barber shops
+- SaaS model
 
 ![Nuxt](https://img.shields.io/badge/Nuxt_4-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -54,7 +59,7 @@ A full-featured business platform covering scheduling, client management, servic
 
 **Production-scale call center platform**
 
-A call center management system built for real-world scale — with real-time WebSocket communication, PWA support, state management via Pinia, and a clean server/client separation.
+A call center management system built for real-world scale with  WebSocket communication, PWA support, state management via Pinia, and a clean server/client separation.
 
 **Highlights:**
 - Dedicated WebSocket microservice
@@ -93,7 +98,7 @@ A Python application that collects, processes, and visualizes data from Anatel's
 | Area | Details |
 |---|---|
 | **Full-stack architecture** | End-to-end product development from DB schema to polished UI, with clean separation of concerns |
-| **TypeScript-first mindset** | Strong typing across frontend and backend, composables, generics, and strict configs |
+| **Type safety** | Strong typing across frontend and backend, composables, generics, and strict configs |
 | **Infrastructure** | Docker multi-stage builds, Compose orchestration, environment management, production deployments |
 | **Real-time systems** | WebSocket microservices, PWA service workers, event-driven communication patterns |
 | **Data engineering** | ETL pipelines, data transformation, dashboard generation, public dataset consumption |
@@ -118,7 +123,7 @@ A Python application that collects, processes, and visualizes data from Anatel's
 
 ## Sobre mim
 
-Construo software pronto para produção em toda a stack — de pipelines de dados e APIs de backend a interfaces web refinadas. Meu trabalho abrange sistemas de gestão empresarial, plataformas de comunicação em tempo real e ferramentas de engenharia de dados. Me importo com arquitetura limpa, deploys containerizados e produtos que escalam.
+Construo software pronto para produção de ponta a ponta. Seja com pipelines de dados e APIs de backend ou interfaces web refinadas. Meu trabalho abrange sistemas de gestão empresarial, plataformas de comunicação em tempo real e ferramentas de engenharia de dados. Me importo com arquitetura limpa, deploys containerizados e produtos que escalam mas que, principalmente, funcionam.
 
 ---
 
@@ -130,7 +135,9 @@ Construo software pronto para produção em toda a stack — de pipelines de dad
 |:---:|:---:|:---:|
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white) |
 | **Dados & Bancos de Dados** | **Infraestrutura** | **Ferramentas & Práticas** |
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black) |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Compose-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black) |
+| **Integração com IA** | | |
+| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) | | |
 
 </div>
 
@@ -142,13 +149,14 @@ Construo software pronto para produção em toda a stack — de pipelines de dad
 
 **Sistema completo de gestão para barbearias**
 
-Plataforma empresarial completa com agendamentos, gestão de clientes, catálogo de serviços e disponibilidade de barbeiros em tempo real — tudo em uma interface moderna com dark mode.
+Plataforma empresarial completa com agendamentos, gestão de clientes, catálogo de serviços e disponibilidade de barbeiros em tempo real, e que permite que barbearias tenham sua própria página dinâmica de agendamentos.
 
 **Destaques:**
 - Builds Docker multi-stage (dev → prod)
 - Prisma ORM com PostgreSQL
 - Dashboard de KPIs com faturamento diário e agendamentos
-- Hot Module Replacement em dev via bind mounts
+- Página dinâmica e compartilhável para agendamento
+- Modelo SaaS
 
 ![Nuxt](https://img.shields.io/badge/Nuxt_4-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
